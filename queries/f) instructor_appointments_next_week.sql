@@ -37,3 +37,4 @@ END
 GO;
 
 EXEC InstructorAppointmentsNextWeek @instructor_id = 1, @date_requested = '2023-11-1';
+GO;
