@@ -1,0 +1,13 @@
+INSERT INTO EasyDriveMotorSchool.dbo.Client (id, name, gender, birth_date, phone, office_id) VALUES (1, N'John Doe', N'M', N'1990-05-15', N'123-456-7890', 1);
+INSERT INTO EasyDriveMotorSchool.dbo.Client (id, name, gender, birth_date, phone, office_id) VALUES (2, N'Jane Smith', N'F', N'1985-08-22', N'987-654-3210', 2);
+INSERT INTO EasyDriveMotorSchool.dbo.Client (id, name, gender, birth_date, phone, office_id) VALUES (3, N'Alice Johnson', N'F', N'1992-02-10', N'555-123-4567', 1);
+INSERT INTO EasyDriveMotorSchool.dbo.Client (id, name, gender, birth_date, phone, office_id) VALUES (4, N'Bob Wilson', N'M', N'1988-11-05', N'777-888-9999', 2);
+INSERT INTO EasyDriveMotorSchool.dbo.Client (id, name, gender, birth_date, phone, office_id) VALUES (5, N'Eva Davis', N'F', N'1995-07-18', N'333-555-7777', 1);
+INSERT INTO EasyDriveMotorSchool.dbo.Client (id, name, gender, birth_date, phone, office_id) VALUES (6, N'Michael Brown', N'M', N'1982-04-03', N'111-222-3333', 2);
+INSERT INTO EasyDriveMotorSchool.dbo.Client (id, name, gender, birth_date, phone, office_id) VALUES (7, N'Sophia Taylor', N'F', N'1998-09-30', N'444-666-8888', 1);
+INSERT INTO EasyDriveMotorSchool.dbo.Client (id, name, gender, birth_date, phone, office_id) VALUES (8, N'David Lee', N'M', N'1993-12-12', N'999-111-2222', 2);
+INSERT INTO EasyDriveMotorSchool.dbo.Client (id, name, gender, birth_date, phone, office_id) VALUES (9, N'Olivia White', N'F', N'1980-06-25', N'666-444-3333', 1);
+INSERT INTO EasyDriveMotorSchool.dbo.Client (id, name, gender, birth_date, phone, office_id) VALUES (10, N'Matthew Reed', N'M', N'1987-03-08', N'888-777-5555', 2);
+INSERT INTO EasyDriveMotorSchool.dbo.Client (id, name, gender, birth_date, phone, office_id) VALUES (11, N'Jordan Taylor', N'N', N'1990-01-01', N'555-555-5555', 1);
+INSERT INTO EasyDriveMotorSchool.dbo.Client (id, name, gender, birth_date, phone, office_id) VALUES (1002, N'Brad Pitt', N'M', N'1991-11-02', N'444-333-2222', 2);
+INSERT INTO EasyDriveMotorSchool.dbo.Client (id, name, gender, birth_date, phone, office_id) VALUES (1003, N'Michael Jordan', N'M', N'1985-11-09', N'333-222-1111', 1);

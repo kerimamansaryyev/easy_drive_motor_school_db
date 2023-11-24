@@ -1,0 +1,10 @@
+INSERT INTO EasyDriveMotorSchool.dbo.InstructorCar (registration_number, model, office_id, staff_id) VALUES (N'CAR001', N'Toyota Camry', 2, 4);
+INSERT INTO EasyDriveMotorSchool.dbo.InstructorCar (registration_number, model, office_id, staff_id) VALUES (N'CAR002', N'Honda Accord', 2, 6);
+INSERT INTO EasyDriveMotorSchool.dbo.InstructorCar (registration_number, model, office_id, staff_id) VALUES (N'CAR003', N'Ford Focus', 2, 10);
+INSERT INTO EasyDriveMotorSchool.dbo.InstructorCar (registration_number, model, office_id, staff_id) VALUES (N'CAR004', N'Chevrolet Malibu', 2, 12);
+INSERT INTO EasyDriveMotorSchool.dbo.InstructorCar (registration_number, model, office_id, staff_id) VALUES (N'CAR005', N'Nissan Altima', 2, 14);
+INSERT INTO EasyDriveMotorSchool.dbo.InstructorCar (registration_number, model, office_id, staff_id) VALUES (N'CAR006', N'Mazda 6', 1, 1);
+INSERT INTO EasyDriveMotorSchool.dbo.InstructorCar (registration_number, model, office_id, staff_id) VALUES (N'CAR007', N'Hyundai Sonata', 1, 3);
+INSERT INTO EasyDriveMotorSchool.dbo.InstructorCar (registration_number, model, office_id, staff_id) VALUES (N'CAR008', N'Kia Optima', 1, 7);
+INSERT INTO EasyDriveMotorSchool.dbo.InstructorCar (registration_number, model, office_id, staff_id) VALUES (N'CAR009', N'Volkswagen Passat', 1, 9);
+INSERT INTO EasyDriveMotorSchool.dbo.InstructorCar (registration_number, model, office_id, staff_id) VALUES (N'CAR010', N'Subaru Legacy', 1, 11);
